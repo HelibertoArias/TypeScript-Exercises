@@ -1,3 +1,6 @@
+# helarias -> compiles js
+*.js
+
 # Logs
 logs
 *.log
